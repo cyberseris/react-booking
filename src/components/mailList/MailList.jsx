@@ -1,4 +1,4 @@
-import mailList from './mailList.css'
+import './mailList.css'
 
 function MailList() {
     return (

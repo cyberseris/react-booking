@@ -95,16 +95,16 @@ const Hotel = () => {
                             </p>
                         </div>
                         <div className="hotelDetailsPrice">
-                            <h2>Perfect for a 3-night stay!</h2>
+                            <h2 className="m-0">Perfect for a 3-night stay!</h2>
                             <span>Located in the best-rated area in Szeged, this hotel has an excellent location score of 9.3
                             </span>
-                            <h2>Breakfast Info</h2>
+                            <h2 className="m-0">Breakfast Info</h2>
                             <span>Continental</span>
-                            <h2>Rooms with:</h2>
+                            <h2 className="m-0">Rooms with:</h2>
                             <span><FontAwesomeIcon icon={faCity} className="mr-10" />City view</span>
                             <span><FontAwesomeIcon icon={faLandmark} className="mr-10" />Landmark view</span>
                             <span>Private parking at the hotel</span>
-                            <h3>
+                            <h3 className="m-0">
                                 <b>$582</b>(3 nights)
                             </h3>
                             <button>Reserve or Book Now!</button>
